@@ -46,7 +46,7 @@ android {
 //    productFlavors {
 //        create("full") {
 //            dimension = "version"
-//            applicationIdSuffix = ".full"
+//            applicationIdSuffix = ".release"
 //        }
 //        create("demo") {
 //            dimension = "version"
